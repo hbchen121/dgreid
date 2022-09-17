@@ -4,6 +4,7 @@
 # Domain Generalization Person ReID Baseline
 
 This repository is the code for the Baseline in [Style Variable and Irrelevant Learning for Generalizable Person Re-identification](https://arxiv.org/abs/2209.05235). 
+The overall code will be released later.
 
 ## Requirements
 
